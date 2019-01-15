@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["npm", "package"],
+  "keywords": [
+    "npm",
+    "package"
+  ],
   "author": "ziwei",
   "license": "MIT"
 }
